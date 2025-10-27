@@ -1,9 +1,10 @@
-# Setting up Mill Build Tool – Step-by-Step for Beginners
+# Setting up Mill Build Tool
 
 ## 1. Check Prerequisites
 
-- Java 21 or newer installed (run `java -version` in a terminal).
-- A terminal / command prompt open.
+- A terminal / command prompt open
+- Java 21 or newer installed (run `java -version` in a terminal)
+
 
 ## 2. Install Mill
 

@@ -4,6 +4,7 @@ out/
 # IDE
 .bsp/
 .metals/
+.vscode/
 
 # Custom files
 scratch_space.md
