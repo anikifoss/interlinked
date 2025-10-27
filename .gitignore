@@ -1,0 +1,10 @@
+# Mill Build
+out/
+
+# IDE
+.bsp/
+.metals/
+
+# Custom files
+scratch_space.md
+Completion.java
